@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "ulluflffullugluflutukdtkfkjkfjlg",
+   "name": "V-Core Base",
+   "uuid": "71810800-9ad8-4cfc-bf61-1f7ab65144a6",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 26, 0]
+  },
+ "modules": [
+   {
+     "description": "VENLARK's pack",
+     "type": "resources",
+     "uuid": "534e922b-8fcd-43cf-a099-9cda3fc6624b",
+     "version": [1, 0, 0]
+   }
+ ]
+}
